@@ -1,0 +1,9 @@
+[5/24/2024, 10:21:18 PM] layer "photo.jpg": Duplicate path: photo.jpg
+[5/24/2024, 10:21:18 PM] layer "photo.jpg": Duplicate path: photo.jpg
+[5/24/2024, 10:21:18 PM] layer "photo.jpg": Duplicate path: photo.jpg
+[5/24/2024, 10:21:17 PM] layer "photo.jpg": Duplicate path: photo.jpg
+[5/24/2024, 10:21:18 PM] layer "photo.jpg": Duplicate path: photo.jpg
+[5/24/2024, 10:21:18 PM] layer "photo.jpg": Duplicate path: photo.jpg
+[5/24/2024, 10:21:18 PM] layer "photo.jpg": Duplicate path: photo.jpg
+[5/24/2024, 10:21:18 PM] layer "photo.jpg": Duplicate path: photo.jpg
+[5/24/2024, 10:21:18 PM] layer "photo.jpg": Duplicate path: photo.jpg
